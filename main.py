@@ -1,6 +1,6 @@
 print("Olga Macko")
 print("Zans Zadusko")
-print("kuku")
-
+print("Dinozavrrr")
 print("Kristīna Kozik")
+
 
